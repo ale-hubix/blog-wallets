@@ -5,6 +5,7 @@
 
 main:
   - name: Demo
+    pre: <i class='fa fa-heart'></i>
     url: '#about'
     weight: 10
   - name: Posts
